@@ -2,6 +2,7 @@ package graph;
 
 public class Graph {
 	public int main(){
-		return 0;
+		int test =0;
+		 return test;
 	}
 }
